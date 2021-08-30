@@ -18,6 +18,7 @@ a {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+    text-align: center;
     
 }
 
@@ -42,4 +43,15 @@ h4 {
  
 #picture {
     text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
 }
